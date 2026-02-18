@@ -1,0 +1,767 @@
+﻿{
+	"categories": [
+		{
+			"id": "landmark",
+			"name": "Landmark",
+			"slug": "landmark"
+		},
+		{
+			"id": "precast",
+			"name": "Precast",
+			"slug": "precast"
+		},
+		{
+			"id": "commercial",
+			"name": "Commercial",
+			"slug": "commercial"
+		},
+		{
+			"id": "institutional",
+			"name": "Institutional",
+			"slug": "institutional"
+		},
+		{
+			"id": "industrial",
+			"name": "Industrial",
+			"slug": "industrial"
+		},
+		{
+			"id": "international",
+			"name": "International",
+			"slug": "international"
+		},
+		{
+			"id": "infrastructure",
+			"name": "Infrastructure",
+			"slug": "infrastructure"
+		}
+	],
+	"subcategories": {
+		"precast": [
+			{
+				"id": "hollow-core-slabs",
+				"name": "Hollow Core Slabs",
+				"slug": "hollow-core-slabs"
+			},
+			{
+				"id": "double-tee-slabs",
+				"name": "Double-Tee Slabs",
+				"slug": "double-tee-slabs"
+			},
+			{
+				"id": "precast-walls",
+				"name": "Precast Walls",
+				"slug": "precast-walls"
+			},
+			{
+				"id": "sandwich-panels",
+				"name": "Sandwich Panels",
+				"slug": "sandwich-panels"
+			},
+			{
+				"id": "beams-columns",
+				"name": "Beams \u0026 Columns",
+				"slug": "beams-columns"
+			},
+			{
+				"id": "staircases",
+				"name": "Staircases",
+				"slug": "staircases"
+			}
+		],
+		"commercial": [
+			{
+				"id": "office-buildings",
+				"name": "Office Buildings",
+				"slug": "office-buildings"
+			},
+			{
+				"id": "shopping-malls",
+				"name": "Shopping Malls",
+				"slug": "shopping-malls"
+			},
+			{
+				"id": "it-parks",
+				"name": "IT Parks",
+				"slug": "it-parks"
+			}
+		],
+		"industrial": [
+			{
+				"id": "warehouses",
+				"name": "Warehouses",
+				"slug": "warehouses"
+			},
+			{
+				"id": "manufacturing",
+				"name": "Manufacturing",
+				"slug": "manufacturing"
+			},
+			{
+				"id": "distribution-centers",
+				"name": "Distribution Centers",
+				"slug": "distribution-centers"
+			}
+		]
+	},
+	"projects": [
+		{
+			"id": "1",
+			"name": "IKON Public School",
+			"location": "Channapatna, Karnataka, India",
+			"area": "School campus",
+			"type": "Institutional Project",
+			"category": "institutional",
+			"subcategory": "school-building",
+			"description": "Structural design for a public school campus focusing on safety, durability, and efficient classroom layouts.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg"
+			],
+			"details": {
+				"client": "IKON Group",
+				"duration": "18 months",
+				"completionYear": "2021",
+				"scope": "Structural design and consultancy"
+			}
+		},
+		{
+			"id": "2",
+			"name": "Proposed Residential Apartment",
+			"location": "Tirupati, Andhra Pradesh, India",
+			"area": "Multi-storey residential apartments",
+			"type": "Residential Project",
+			"category": "residential",
+			"subcategory": "apartment",
+			"description": "Proposed apartment project designed with efficient RCC structural systems for urban living.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg"
+			],
+			"details": {
+				"client": "Private Developer",
+				"duration": "Planned",
+				"completionYear": "Proposed",
+				"scope": "Structural planning and design"
+			}
+		},
+		{
+			"id": "3",
+			"name": "Tholkappiyar Walkway Bridge",
+			"location": "Chennai, Tamil Nadu, India",
+			"area": "Pedestrian bridge",
+			"type": "Infrastructure Project",
+			"category": "infrastructure",
+			"subcategory": "walkway-bridge",
+			"description": "Pedestrian walkway bridge designed to improve urban connectivity with safe and aesthetic structural solutions.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg"
+			],
+			"details": {
+				"client": "Municipal Authority",
+				"duration": "12 months",
+				"completionYear": "2020",
+				"scope": "Structural analysis and design"
+			}
+		},
+		{
+			"id": "4",
+			"name": "Legacy Brewery",
+			"location": "Bangalore, Karnataka, India",
+			"area": "Brewery facility",
+			"type": "Industrial Project",
+			"category": "industrial",
+			"subcategory": "brewery",
+			"description": "Industrial structural design accommodating heavy machinery, process loads, and vibration control.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.webp"
+			],
+			"details": {
+				"client": "Legacy Breweries",
+				"duration": "20 months",
+				"completionYear": "2019",
+				"scope": "Structural design and detailing"
+			}
+		},
+		{
+			"id": "5",
+			"name": "Isha Dorm Block-A",
+			"location": "Bangalore, Karnataka, India",
+			"area": "Dormitory building",
+			"type": "Institutional Project",
+			"category": "institutional",
+			"subcategory": "hostel",
+			"description": "Dormitory block designed for residential accommodation with optimized structural layouts.",
+			"images": [
+				"/1.jpg",
+				"/10.jpg",
+				"/11.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/3.png",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.jpg"
+			],
+			"details": {
+				"client": "Isha Foundation",
+				"duration": "Ongoing",
+				"completionYear": "In Progress",
+				"scope": "Structural design and site support"
+			}
+		},
+		{
+			"id": "6",
+			"name": "Isha Devi Temple Arch",
+			"location": "Chikkaballapur, Karnataka, India",
+			"area": "Temple entrance arch",
+			"type": "Religious Project",
+			"category": "institutional",
+			"subcategory": "arch-structure",
+			"description": "Architectural arch structure emphasizing cultural aesthetics and structural stability.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg"
+			],
+			"details": {
+				"client": "Isha Foundation",
+				"duration": "6 months",
+				"completionYear": "2021",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "7",
+			"name": "Isha Theerthakund",
+			"location": "Chikkaballapur, Karnataka, India",
+			"area": "Water structure",
+			"type": "Religious Project",
+			"category": "institutional",
+			"subcategory": "water-structure",
+			"description": "Sacred water structure integrating traditional design with modern structural engineering.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg"
+			],
+			"details": {
+				"client": "Isha Foundation",
+				"duration": "8 months",
+				"completionYear": "2022",
+				"scope": "Structural design and detailing"
+			}
+		},
+		{
+			"id": "8",
+			"name": "Clock Tower",
+			"location": "Bangalore, Karnataka, India",
+			"area": "Public landmark",
+			"type": "Landmark Project",
+			"category": "landmark",
+			"subcategory": "tower",
+			"description": "Iconic clock tower designed as a public landmark with long-term durability.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.jpg"
+			],
+			"details": {
+				"client": "Urban Development Authority",
+				"duration": "10 months",
+				"completionYear": "2018",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "9",
+			"name": "Clock Tower - 1",
+			"location": "Bangalore, Karnataka, India",
+			"area": "Public landmark",
+			"type": "Landmark Project",
+			"category": "landmark",
+			"subcategory": "tower",
+			"description": "Secondary clock tower structure designed with similar architectural and structural principles.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg"
+			],
+			"details": {
+				"client": "Urban Development Authority",
+				"duration": "10 months",
+				"completionYear": "2018",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "10",
+			"name": "CTRL S Data Center",
+			"location": "Kolkata, West Bengal, India",
+			"area": "Mission-critical facility",
+			"type": "Commercial Project",
+			"category": "commercial",
+			"subcategory": "data-center",
+			"description": "High-reliability data center designed for heavy floor loads and uninterrupted operations.",
+			"images": [
+				"/1.jpeg",
+				"/10.jpeg",
+				"/11.jpeg",
+				"/12.jpeg",
+				"/13.jpeg",
+				"/14.jpeg",
+				"/15.jpeg",
+				"/2.jpeg",
+				"/3.jpeg",
+				"/4.jpeg",
+				"/5.jpeg",
+				"/6.jpeg",
+				"/7.jpeg",
+				"/8.jpeg",
+				"/9.jpeg"
+			],
+			"details": {
+				"client": "CTRL S",
+				"duration": "22 months",
+				"completionYear": "2020",
+				"scope": "Structural design and coordination"
+			}
+		},
+		{
+			"id": "11",
+			"name": "DAC Villa",
+			"location": "Chennai, Tamil Nadu, India",
+			"area": "Luxury villa",
+			"type": "Residential Project",
+			"category": "residential",
+			"subcategory": "villa",
+			"description": "Luxury villa designed with customized structural solutions.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.jpg"
+			],
+			"details": {
+				"client": "DAC Developers",
+				"duration": "14 months",
+				"completionYear": "2021",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "12",
+			"name": "Dreamsmiths Villa",
+			"location": "Goa, India",
+			"area": "Holiday villa",
+			"type": "Residential Project",
+			"category": "residential",
+			"subcategory": "villa",
+			"description": "Villa project designed for coastal conditions with durable structural systems.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg"
+			],
+			"details": {
+				"client": "Dreamsmiths",
+				"duration": "16 months",
+				"completionYear": "2022",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "13",
+			"name": "Housing Block",
+			"location": "Noida, Uttar Pradesh, India",
+			"area": "Residential block",
+			"type": "Residential Project",
+			"category": "residential",
+			"subcategory": "housing-block",
+			"description": "Multi-storey housing block with cost-effective RCC structural design.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg"
+			],
+			"details": {
+				"client": "Private Builder",
+				"duration": "24 months",
+				"completionYear": "2019",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "14",
+			"name": "HVAC Facility",
+			"location": "Bihar, India",
+			"area": "Industrial service facility",
+			"type": "Industrial Project",
+			"category": "industrial",
+			"subcategory": "industrial-facility",
+			"description": "Structural design for HVAC and mechanical service infrastructure.",
+			"images": [
+				"/1.jpg",
+				"/10.jpg",
+				"/11.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.jpg",
+				"/9.jpg"
+			],
+			"details": {
+				"client": "Private Client",
+				"duration": "12 months",
+				"completionYear": "2020",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "15",
+			"name": "MF Factory",
+			"location": "Chennai, Tamil Nadu, India",
+			"area": "Manufacturing facility",
+			"type": "Industrial Project",
+			"category": "industrial",
+			"subcategory": "manufacturing",
+			"description": "Factory building designed to support manufacturing operations and heavy equipment.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg"
+			],
+			"details": {
+				"client": "Private Manufacturer",
+				"duration": "18 months",
+				"completionYear": "2019",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "16",
+			"name": "Nalanda Auditorium",
+			"location": "Bihar, India",
+			"area": "Auditorium",
+			"type": "Institutional Project",
+			"category": "institutional",
+			"subcategory": "auditorium",
+			"description": "Large-span auditorium structure designed for public gatherings and events.",
+			"images": [
+				"/1.jpg",
+				"/10.jpg",
+				"/11.jpg",
+				"/12.jpg",
+				"/13.jpg",
+				"/14.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.jpg",
+				"/9.jpg"
+			],
+			"details": {
+				"client": "Nalanda University",
+				"duration": "20 months",
+				"completionYear": "2018",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "17",
+			"name": "Nalanda Cafe",
+			"location": "Bihar, India",
+			"area": "Cafeteria building",
+			"type": "Institutional Project",
+			"category": "institutional",
+			"subcategory": "cafeteria",
+			"description": "Campus cafeteria structure designed for high footfall and open spaces.",
+			"images": [
+				"/1 (10).jpg",
+				"/1 (11).jpg",
+				"/1 (12).jpg",
+				"/1 (13).jpg",
+				"/10.jpg",
+				"/11.jpg",
+				"/12.jpg",
+				"/13.jpg",
+				"/14.jpg",
+				"/15.jpg",
+				"/16.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.jpg",
+				"/9.jpg"
+			],
+			"details": {
+				"client": "Nalanda University",
+				"duration": "10 months",
+				"completionYear": "2018",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "18",
+			"name": "Nalanda University Library",
+			"location": "Bihar, India",
+			"area": "University library",
+			"type": "Institutional Project",
+			"category": "institutional",
+			"subcategory": "library",
+			"description": "Library structure designed to support heavy floor loads and long-term durability.",
+			"images": [
+				"/1.jpg",
+				"/10.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.jpg",
+				"/9.jpg"
+			],
+			"details": {
+				"client": "Nalanda University",
+				"duration": "18 months",
+				"completionYear": "2017",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "19",
+			"name": "Nalanda Yoga Center",
+			"location": "Bihar, India",
+			"area": "Yoga hall",
+			"type": "Institutional Project",
+			"category": "institutional",
+			"subcategory": "yoga-center",
+			"description": "Column-free yoga hall designed for large clear spans.",
+			"images": [
+				"/1.jpg",
+				"/10.jpg",
+				"/11.jpg",
+				"/12.jpg",
+				"/13.jpg",
+				"/14.jpg",
+				"/15.jpg",
+				"/16.jpg",
+				"/17.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.jpg",
+				"/9.jpg"
+			],
+			"details": {
+				"client": "Nalanda University",
+				"duration": "12 months",
+				"completionYear": "2021",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "20",
+			"name": "KPR Hostel Building",
+			"location": "Coimbatore, Tamil Nadu, India",
+			"area": "Hostel building",
+			"type": "Institutional Project",
+			"category": "institutional",
+			"subcategory": "hostel",
+			"description": "Hostel building project designed for student accommodation.",
+			"images": [
+				"/1.png"
+			],
+			"details": {
+				"client": "KPR Institute",
+				"duration": "Ongoing",
+				"completionYear": "In Progress",
+				"scope": "Structural design and coordination"
+			}
+		},
+		{
+			"id": "21",
+			"name": "Pandian Chemicals",
+			"location": "Puducherry, India",
+			"area": "Chemical plant",
+			"type": "Industrial Project",
+			"category": "industrial",
+			"subcategory": "chemical-plant",
+			"description": "Industrial structure designed to support chemical processing operations.",
+			"images": [
+				"/1.jpeg",
+				"/10.jpeg",
+				"/11.jpeg",
+				"/12.jpeg",
+				"/13.jpeg",
+				"/2.jpeg",
+				"/3.jpeg",
+				"/4.jpeg",
+				"/5.jpeg",
+				"/6.jpeg",
+				"/7.jpeg",
+				"/8.jpeg",
+				"/9.jpeg"
+			],
+			"details": {
+				"client": "Pandian Chemicals",
+				"duration": "18 months",
+				"completionYear": "2019",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "22",
+			"name": "Pillabs Structure",
+			"location": "Tenkasi, Tamil Nadu, India",
+			"area": "Industrial structure",
+			"type": "Industrial Project",
+			"category": "industrial",
+			"subcategory": "manufacturing-unit",
+			"description": "Structural engineering services for an industrial manufacturing unit.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg"
+			],
+			"details": {
+				"client": "Pillabs",
+				"duration": "15 months",
+				"completionYear": "2020",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "23",
+			"name": "S3 Mall",
+			"location": "Chennai, Tamil Nadu, India",
+			"area": "Commercial mall",
+			"type": "Landmark Project",
+			"category": "landmark",
+			"subcategory": "shopping-mall",
+			"description": "Large commercial mall featuring long-span structural systems and complex layouts.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.webp",
+				"/9.webp"
+			],
+			"details": {
+				"client": "S3 Developers",
+				"duration": "24 months",
+				"completionYear": "2022",
+				"scope": "Structural design and coordination"
+			}
+		},
+		{
+			"id": "24",
+			"name": "Selvakumar Residence",
+			"location": "Madurai, Tamil Nadu, India",
+			"area": "Independent residence",
+			"type": "Residential Project",
+			"category": "residential",
+			"subcategory": "independent-house",
+			"description": "Customized structural design for a private residence.",
+			"images": [
+				"/1.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg"
+			],
+			"details": {
+				"client": "Private Client",
+				"duration": "10 months",
+				"completionYear": "2021",
+				"scope": "Structural design"
+			}
+		},
+		{
+			"id": "25",
+			"name": "Steel Network Arch Bridge",
+			"location": "Kanyakumari, Tamil Nadu, India",
+			"area": "Steel arch bridge",
+			"type": "Infrastructure Project",
+			"category": "infrastructure",
+			"subcategory": "steel-arch-bridge",
+			"description": "Steel network arch bridge designed for long spans and coastal environmental conditions.",
+			"images": [
+				"/1.jpeg",
+				"/10.jpeg",
+				"/11.jpg",
+				"/12.jpg",
+				"/13.jpg",
+				"/14.jpg",
+				"/15.jpg",
+				"/16.jpg",
+				"/17.jpg",
+				"/18.jpg",
+				"/2.jpg",
+				"/3.jpg",
+				"/4.jpg",
+				"/5.jpg",
+				"/6.jpg",
+				"/7.jpg",
+				"/8.jpg",
+				"/9.jpg"
+			],
+			"details": {
+				"client": "Government Authority",
+				"duration": "30 months",
+				"completionYear": "2023",
+				"scope": "Structural design and detailing"
+			}
+		}
+	]
+}
