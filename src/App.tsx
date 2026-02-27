@@ -8,10 +8,14 @@ import Expertise from './pages/Expertise';
 import Team from './pages/Team';
 import Clients from './pages/Clients';
 import Contact from './pages/Contact';
+import ScrollToTop from './components/ScrollToTop'; 
+
+
 
 function App() {
   return (
     <Router>
+      <ScrollToTop /> 
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
